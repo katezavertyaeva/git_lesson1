@@ -33,4 +33,6 @@ li {
   background: rgb(11, 14, 59);
   background-size: cover;
   font-family: "Courier New", Courier, monospace;
+  color: white;
+  font-size: 26px;
 }
